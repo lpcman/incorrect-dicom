@@ -1,2 +1,2 @@
 # incorrect-dicom
-incorrect dicom file
+incorrect dicom files
